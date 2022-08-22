@@ -1,6 +1,6 @@
 ## Yabatech ECommerce Next
 
-Yabatech ECommerce Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js.
+Yabatech ECommerce(Built for Final Year Project by Group Members) Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js.
 
 Out of the box, the site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.
 
@@ -8,10 +8,10 @@ Out of the box, the site uses completely static data coming from a provider at `
 
 ### Live preview
 
-Click [here](https://www.jamstackecommerce.dev/) to see a live preview.
+Click [here](https://yctecommerce.vercel.app/) to see a live preview.
 
 <details>
-  <summary>Other Jamstack ECommerce pages</summary>
+  <summary>Other Yabatech ECommerce pages</summary>
 
 ### Category view
 ![Category view](example-images/2.png)
